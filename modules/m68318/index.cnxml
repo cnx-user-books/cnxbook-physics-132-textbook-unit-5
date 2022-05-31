@@ -1,0 +1,71 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Unit 5 on a Page</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68318</md:content-id>
+  <md:title>Unit 5 on a Page</md:title>
+  <md:abstract/>
+  <md:uuid>5998907c-0cfd-4bac-9216-569786a1ab17</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm182244448">
+<list id="fs-idm1291506928">
+    <item id="import-auto-idm1134684448">Only moving charges (i.e. currents) generate and feel magnetic fields </item>
+    <item id="import-auto-idm1132384896">The field is “real” and the key object (just like for electricity)</item>
+    <item id="import-auto-idm197501200">Moving charges make fields which can then exert forces on other moving charges</item>
+    <item id="import-auto-idm1428305216">Use your right hand: thumb in current(<m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mover accent="true"><m:mi>I</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">widevec {I}</m:annotation></m:semantics></m:math> or <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mi>q</m:mi><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:annotation encoding="StarMath 5.0">q widevec {v}</m:annotation></m:semantics></m:math>), fingers in <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">widevec {B}</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm196467088">• For the direction of a magnetic field, fingers curl in direction of <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">widevec {B}</m:annotation></m:semantics></m:math></item></list></para>
+    <para id="fs-idm455749200"><figure id="import-auto-idm210583776">
+      <media id="import-auto-idm1159899584" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-567c.png" height="253" width="157"/>
+      </media>
+    </figure>
+</para>
+<para id="fs-idm427622832">
+<list xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-idm523520960"><item id="import-auto-idm214095952"><equation id="eip-idm376551488">
+      <m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mo fence="true" stretchy="true">|</m:mo>
+              <m:mrow>
+                <m:mover accent="true">
+                  <m:mi>B</m:mi>
+                  <m:mo stretchy="true">⃗</m:mo>
+                </m:mover>
+              </m:mrow>
+              <m:mo fence="true" stretchy="true">|</m:mo>
+            </m:mrow>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>μ</m:mi>
+                  <m:mn>0</m:mn>
+                </m:msub>
+                <m:mi>I</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi mathvariant="italic">πr</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">left lline widevec {B} right rline = {{μ} rsub {0} I} over {2πr}</m:annotation>
+        </m:semantics>
+      </m:math></equation>
+    </item>
+    <item id="import-auto-idm1315526416"><m:math display="block"><m:semantics><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{μ} rsub {0}</m:annotation></m:semantics></m:math> is another universal constant like <m:math display="block"><m:semantics><m:mi>h</m:mi><m:annotation encoding="StarMath 5.0">h</m:annotation></m:semantics></m:math>, <m:math display="block"><m:semantics><m:mi>c</m:mi><m:annotation encoding="StarMath 5.0">c</m:annotation></m:semantics></m:math>, <m:math display="block"><m:semantics><m:mrow><m:msub><m:mi>ε</m:mi><m:mn>0</m:mn></m:msub><m:mi>,</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{ε} rsub {0} ,</m:annotation></m:semantics></m:math> and <m:math display="block"><m:semantics><m:mrow><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow><m:mi>π</m:mi><m:mi>×</m:mi><m:msup><m:mn>10</m:mn><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:msup><m:mfrac><m:mi>N</m:mi><m:msup><m:mi>A</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">{μ} rsub {0} =4π× {10} ^ {-7} {N} over {{A} ^ {2}}</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm176198496">For the force, palm “pushes” in the direction of <m:math display="block"><m:semantics><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">widevec {F}</m:annotation></m:semantics></m:math></item></list></para>
+   <para id="fs-idm542663280"> <figure id="import-auto-idm235305424">
+      <media id="import-auto-idm235305296" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2.png" height="263" width="123"/>
+      </media>
+    </figure>
+</para>
+<para id="fs-idm303867824">
+<list xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-idm504365488"><item id="import-auto-idm237501216"><equation id="eip-idm744947968"><m:math display="block"><m:semantics><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mi mathvariant="italic">qvBsinθ</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">F = qvBsinθ</m:annotation></m:semantics></m:math></equation> or <equation id="eip-idm735251792"><m:math display="block"><m:semantics><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mi mathvariant="italic">ILBsinθ</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">F = ILBsinθ</m:annotation></m:semantics></m:math></equation></item>
+    <item id="import-auto-idm1180049136">Result is particles in uniform <m:math display="block"><m:semantics><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">widevec {B}</m:annotation></m:semantics></m:math> move in circles!!</item>
+</list></para>
+  </content>
+</document>
