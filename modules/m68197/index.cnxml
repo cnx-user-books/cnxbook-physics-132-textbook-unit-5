@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Unit 4 on a Page</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68197</md:content-id>
+  <md:title>Unit 4 on a Page</md:title>
+  <md:abstract/>
+  <md:uuid>faa3a25e-ac1a-4301-ae3d-b39336457eea</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-113"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as a video on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The link can be found <link url="https://youtu.be/QM8k7leQ1n4" window="new"> here. </link></para></problem></exercise><list xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-226"><item>Current and charge must be conserved item The current is the amount of charge per second </item>
+<item> <m:math display="block"><m:semantics><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>∆</m:mi><m:mi>Q</m:mi></m:mrow><m:mrow><m:mi>∆</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">I= {∆Q} over {∆t}</m:annotation></m:semantics></m:math> units: C/s = A</item>
+<item> Direction of current is direction of positive charges’ motion </item>
+<item> The amount of current going into a junction must equal the amount going out (otherwise it would pile up) </item></list><para id="eip-175"><media id="import-auto-idm1173573184" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3.png" height="100" width="100"/>
+        </media>
+      </para><list xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-581"><item> The changes in potential around any closed loop is zero </item>
+<item> The potential drop across a battery is fixed </item>
+<item> The potential drop across a resistor is related to the current and resistance <m:math display="block"><m:semantics><m:mrow><m:mi>∆</m:mi><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mi mathvariant="italic">IR</m:mi></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">∆V=IR</m:annotation></m:semantics></m:math> </item>
+<item> Resistors dissipate electrical potential energy into something else (heat, motion, light, etc.) </item>
+<item> The resistance is fixed by the material, units: <m:math display="block"><m:semantics><m:mrow><m:mfrac><m:mi>V</m:mi><m:mi>A</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>Ω</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{V} over {A} = Ω</m:annotation></m:semantics></m:math></item>
+</list><para id="eip-47"><media id="import-auto-idm1352835232" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4.png" height="100" width="150"/>
+        </media>
+      </para><list xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-128"><item> The potential drop across a wire is zero (<m:math display="block"><m:semantics><m:mrow><m:mi>R</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:annotation encoding="StarMath 5.0">R=0</m:annotation></m:semantics></m:math>) </item>
+<item> The potential drop across a capacitor is related to the charge and the capacitance: <m:math display="block"><m:semantics><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>Q</m:mi><m:mrow><m:mi>∆</m:mi><m:mi>V</m:mi></m:mrow></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">C = {Q} over {∆V}</m:annotation></m:semantics></m:math></item>
+<item> A capacitor is two pieces of metal that don’t touch</item>
+<item> The capacitance is a property of the geometry of the plates</item>
+<item> For parallel plates <m:math display="block"><m:semantics><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mi mathvariant="italic">II</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:mi>ε</m:mi></m:mrow><m:mfrac><m:mi>A</m:mi><m:mi>d</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">{C} rsub {II} =ε {A} over {d}</m:annotation></m:semantics></m:math>  units: <m:math display="block"><m:semantics><m:mrow><m:mfrac><m:mi>C</m:mi><m:mi>V</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>F</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{C} over {V} = F</m:annotation></m:semantics></m:math> </item>
+<item> Capacitors store charges separated, they store energy</item>
+<item> The power provided/stored/dissipated by a circuit element is <m:math display="block"><m:semantics><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">=</m:mo><m:mi mathvariant="italic">IV</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">P = IV</m:annotation></m:semantics></m:math> </item>
+<item> Must do element-by-element</item></list><para id="eip-336"><media id="import-auto-idm1278840592" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2.png" height="100" width="150"/>
+        </media>
+      </para></content>
+</document>
