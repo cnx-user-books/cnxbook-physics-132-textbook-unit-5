@@ -1,7 +1,7 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col25507</md:content-id>
-  <md:title>Physics 132 Textbook Unit 4</md:title>
+  <md:content-id>col25427</md:content-id>
+  <md:title>Physics 132 Textbook Unit 5</md:title>
   
   
   <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
@@ -15,7 +15,7 @@
   
   
 
-  <md:uuid>cb3ac1d0-981b-4410-9295-1bd4051b35df</md:uuid>
+  <md:uuid>83c4bccc-cbd2-4bc1-874b-9f8c798126f7</md:uuid>
 <md:slug>physics-132-textbook-unit-5</md:slug>
 </metadata>
 
@@ -32,51 +32,22 @@
         <col:content>
           
     
-      <col:module document="m68197"/>
+      <col:module document="m68318"/>
         
       
     
     
-      <col:module document="m68388"/>
+      <col:module document="m67822"/>
         
       
     
     
-      <col:module document="m67911"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Circuit Elements</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68275"/>
+      <col:module document="m67823"/>
         
       
     
     
-      <col:module document="m67936"/>
-        
-      
-    
-    
-      <col:module document="m67937"/>
-        
-      
-    
-    
-      <col:module document="m67938"/>
+      <col:module document="m67824"/>
         
       
     
@@ -87,7 +58,7 @@
       
         
       <col:subcollection>
-        <md:title>Circuits</md:title>
+        <md:title>Magnetic Fields and What They Do</md:title>
         
         
         
@@ -95,12 +66,36 @@
         <col:content>
           
     
-      <col:module document="m68107"/>
+      <col:module document="m67817"/>
         
       
     
     
-      <col:module document="m68158"/>
+      <col:module document="m67820"/>
+        
+      
+    
+    
+      <col:module document="m67821"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Sources of Magnetic Fields</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m67816"/>
         
       
     
