@@ -1,106 +1,36 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="UMass Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col25427</md:content-id>
-  <md:title>Physics 132 Textbook Unit 5</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>83c4bccc-cbd2-4bc1-874b-9f8c798126f7</md:uuid>
-<md:slug>physics-132-textbook-unit-5</md:slug>
-</metadata>
-
+    <md:content-id>col25427</md:content-id>
+    <md:title>Physics 132 Textbook Unit 5</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>83c4bccc-cbd2-4bc1-874b-9f8c798126f7</md:uuid>
+    <md:slug>physics-132-textbook-unit-5</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Introduction</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68318"/>
-        
-      
-    
-    
-      <col:module document="m67822"/>
-        
-      
-    
-    
-      <col:module document="m67823"/>
-        
-      
-    
-    
-      <col:module document="m67824"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Magnetic Fields and What They Do</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67817"/>
-        
-      
-    
-    
-      <col:module document="m67820"/>
-        
-      
-    
-    
-      <col:module document="m67821"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Sources of Magnetic Fields</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67816"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m68318"/>
+        <col:module document="m67822"/>
+        <col:module document="m67823"/>
+        <col:module document="m67824"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Magnetic Fields and What They Do</md:title>
+      <col:content>
+        <col:module document="m67817"/>
+        <col:module document="m67820"/>
+        <col:module document="m67821"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sources of Magnetic Fields</md:title>
+      <col:content>
+        <col:module document="m67816"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
